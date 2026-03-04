@@ -1,0 +1,578 @@
+2025-10-14 17:15:27,970 - INFO - Найдено 483 PCF файлов для обработки
+2025-10-14 17:15:27,971 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-14 17:15:28,606 - INFO - Найдено 31 уникальных параметров во всех файлах
+2025-10-14 17:15:28,606 - INFO - Второй проход - сбор данных...
+2025-10-14 17:15:29,710 - INFO - Обработка завершена успешно!
+2025-10-14 17:15:29,710 - INFO - Обработано файлов: 483
+2025-10-14 17:15:29,710 - INFO - Ошибок: 0
+2025-10-14 17:15:29,711 - INFO - Найдено инструментов: 246
+2025-10-14 17:15:29,711 - INFO - Найдено уникальных параметров pipeline: 31
+2025-10-14 17:18:36,459 - INFO - Найдено 483 PCF файлов для обработки
+2025-10-14 17:18:36,460 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-14 17:18:37,069 - INFO - Найдено 31 уникальных параметров во всех файлах
+2025-10-14 17:18:37,070 - INFO - Второй проход - сбор данных...
+2025-10-14 17:18:37,978 - INFO - Обработка завершена успешно!
+2025-10-14 17:18:37,978 - INFO - Обработано файлов: 483
+2025-10-14 17:18:37,978 - INFO - Ошибок: 0
+2025-10-14 17:18:37,979 - INFO - Найдено инструментов: 246
+2025-10-14 17:18:37,979 - INFO - Найдено уникальных параметров pipeline: 31
+2025-10-14 17:29:31,561 - INFO - Найдено 483 PCF файлов для обработки
+2025-10-14 17:29:31,561 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-14 17:29:32,205 - INFO - Найдено 31 уникальных параметров во всех файлах
+2025-10-14 17:29:32,205 - INFO - Второй проход - сбор данных...
+2025-10-14 17:29:32,978 - INFO - Обработка завершена успешно!
+2025-10-14 17:29:32,978 - INFO - Обработано файлов: 483
+2025-10-14 17:29:32,979 - INFO - Ошибок: 0
+2025-10-14 17:29:32,979 - INFO - Найдено инструментов: 246
+2025-10-14 17:29:32,979 - INFO - Найдено уникальных параметров pipeline: 31
+2025-10-14 17:29:44,812 - INFO - Найдено 987 PCF файлов для обработки
+2025-10-14 17:29:44,813 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-14 17:29:45,998 - INFO - Найдено 29 уникальных параметров во всех файлах
+2025-10-14 17:29:45,999 - INFO - Второй проход - сбор данных...
+2025-10-14 17:29:47,177 - INFO - Обработка завершена успешно!
+2025-10-14 17:29:47,177 - INFO - Обработано файлов: 987
+2025-10-14 17:29:47,177 - INFO - Ошибок: 0
+2025-10-14 17:29:47,178 - INFO - Найдено инструментов: 442
+2025-10-14 17:29:47,178 - INFO - Найдено уникальных параметров pipeline: 29
+2025-10-14 17:45:05,911 - INFO - Найдено 987 PCF файлов для обработки
+2025-10-14 17:45:05,911 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-14 17:45:06,752 - INFO - Найдено 29 уникальных параметров во всех файлах
+2025-10-14 17:45:06,752 - INFO - Второй проход - сбор данных...
+2025-10-14 17:52:14,853 - INFO - Найдено 987 PCF файлов для обработки
+2025-10-14 17:52:14,853 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-14 17:52:16,282 - INFO - Найдено 29 уникальных параметров во всех файлах
+2025-10-14 17:52:16,283 - INFO - Второй проход - сбор данных...
+2025-10-14 17:52:18,072 - INFO - Обработка завершена успешно!
+2025-10-14 17:52:18,072 - INFO - Обработано файлов: 987
+2025-10-14 17:52:18,073 - INFO - Ошибок: 0
+2025-10-14 17:52:18,073 - INFO - Найдено инструментов: 442
+2025-10-14 17:52:18,073 - INFO - Найдено уникальных параметров pipeline: 29
+2025-10-15 15:50:15,822 - INFO - Найдено 2436 PCF файлов для обработки
+2025-10-15 15:50:15,823 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-15 15:50:18,405 - INFO - Найдено 31 уникальных параметров во всех файлах
+2025-10-15 15:50:18,405 - INFO - Второй проход - сбор данных...
+2025-10-15 15:50:22,149 - INFO - Обработка завершена успешно!
+2025-10-15 15:50:22,150 - INFO - Обработано файлов: 2436
+2025-10-15 15:50:22,151 - INFO - Ошибок: 0
+2025-10-15 15:50:22,160 - INFO - Найдено инструментов: 1180
+2025-10-15 15:50:22,160 - INFO - Найдено уникальных параметров pipeline: 31
+2025-10-15 15:51:43,765 - INFO - Найдено 1470 PCF файлов для обработки
+2025-10-15 15:51:43,766 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-15 15:51:45,137 - INFO - Найдено 31 уникальных параметров во всех файлах
+2025-10-15 15:51:45,137 - INFO - Второй проход - сбор данных...
+2025-10-15 15:51:47,276 - INFO - Обработка завершена успешно!
+2025-10-15 15:51:47,277 - INFO - Обработано файлов: 1470
+2025-10-15 15:51:47,277 - INFO - Ошибок: 0
+2025-10-15 15:51:47,278 - INFO - Найдено инструментов: 688
+2025-10-15 15:51:47,278 - INFO - Найдено уникальных параметров pipeline: 31
+2025-10-15 16:43:26,974 - INFO - Найдено 1470 PCF файлов для обработки
+2025-10-15 16:43:26,975 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-10-15 16:43:28,373 - INFO - Найдено 31 уникальных параметров во всех файлах
+2025-10-15 16:43:28,374 - INFO - Второй проход - сбор данных...
+2025-10-15 16:43:30,586 - INFO - Обработка завершена успешно!
+2025-10-15 16:43:30,587 - INFO - Обработано файлов: 1470
+2025-10-15 16:43:30,587 - INFO - Ошибок: 0
+2025-10-15 16:43:30,588 - INFO - Найдено инструментов: 688
+2025-10-15 16:43:30,588 - INFO - Найдено уникальных параметров pipeline: 31
+2025-11-25 12:30:07,890 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 12:30:07,899 - INFO - Первый проход - анализ структуры всех файлов для определения всех столбцов...
+2025-11-25 12:30:09,591 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 12:30:09,592 - INFO - Второй проход - сбор данных...
+2025-11-25 12:30:11,854 - INFO - Обработка завершена успешно!
+2025-11-25 12:30:11,854 - INFO - Обработано файлов: 1473
+2025-11-25 12:30:11,854 - INFO - Ошибок: 0
+2025-11-25 12:30:11,855 - INFO - Найдено инструментов: 674
+2025-11-25 12:30:11,855 - INFO - Найдено уникальных параметров pipeline: 32
+2025-11-25 15:38:11,240 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 15:38:11,250 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 15:38:13,515 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 15:38:13,515 - INFO - Второй проход - сбор данных...
+2025-11-25 15:38:16,545 - INFO - Обработка завершена успешно!
+2025-11-25 15:38:16,546 - INFO - Обработано файлов: 1473
+2025-11-25 15:38:16,546 - INFO - Ошибок: 0
+2025-11-25 15:38:16,547 - INFO - Найдено инструментов: 674
+2025-11-25 15:38:16,548 - INFO - Записей в PipeLengthFromPCF: 0
+2025-11-25 15:58:28,403 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 15:58:28,404 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 15:58:30,113 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 15:58:30,113 - INFO - Второй проход - сбор данных...
+2025-11-25 15:58:30,765 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-005 - Rev.01.pcf
+2025-11-25 15:58:30,766 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-006 - Rev.01.pcf
+2025-11-25 15:58:30,769 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-007 - Rev.01.pcf
+2025-11-25 15:58:30,770 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-008 - Rev.01.pcf
+2025-11-25 15:58:30,773 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-011 - Rev.01.pcf
+2025-11-25 15:58:30,774 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-012 - Rev.01.pcf
+2025-11-25 15:58:30,776 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-013 - Rev.01.pcf
+2025-11-25 15:58:30,777 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-014 - Rev.01.pcf
+2025-11-25 15:58:30,779 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-015 - Rev.01.pcf
+2025-11-25 15:58:30,781 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-017 - Rev.01.pcf
+2025-11-25 15:58:30,782 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-018 - Rev.01.pcf
+2025-11-25 15:58:31,764 - WARNING - Не найдены PIPELINE-REFERENCE или UNITS-BORE в файле C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\895-SCA-90109-002 - Rev.01.pcf
+2025-11-25 15:58:32,992 - INFO - Обработка завершена успешно!
+2025-11-25 15:58:32,992 - INFO - Обработано файлов: 1473
+2025-11-25 15:58:32,992 - INFO - Ошибок: 0
+2025-11-25 15:58:32,992 - INFO - Найдено инструментов: 674
+2025-11-25 15:58:32,993 - INFO - Записей в PipeLengthFromPCF: 2419
+2025-11-25 18:35:48,999 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 18:35:49,000 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 18:35:54,321 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 18:35:54,322 - INFO - Второй проход - сбор данных...
+2025-11-25 18:35:56,609 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-005 - Rev.01.pcf
+2025-11-25 18:35:56,612 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-006 - Rev.01.pcf
+2025-11-25 18:35:56,614 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-007 - Rev.01.pcf
+2025-11-25 18:35:56,616 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-008 - Rev.01.pcf
+2025-11-25 18:35:56,622 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-011 - Rev.01.pcf
+2025-11-25 18:35:56,624 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-012 - Rev.01.pcf
+2025-11-25 18:35:56,627 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-013 - Rev.01.pcf
+2025-11-25 18:35:56,629 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-014 - Rev.01.pcf
+2025-11-25 18:35:56,631 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-015 - Rev.01.pcf
+2025-11-25 18:35:56,636 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-017 - Rev.01.pcf
+2025-11-25 18:35:56,637 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-018 - Rev.01.pcf
+2025-11-25 18:35:59,961 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\895-SCA-90109-002 - Rev.01.pcf
+2025-11-25 18:36:01,815 - INFO - Обработка завершена успешно!
+2025-11-25 18:36:01,815 - INFO - Обработано файлов: 1473
+2025-11-25 18:36:01,816 - INFO - Ошибок: 0
+2025-11-25 18:36:01,816 - INFO - Найдено инструментов: 674
+2025-11-25 18:36:01,816 - INFO - Записей в PipeLengthFromPCF: 2429
+2025-11-25 18:59:37,781 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 18:59:37,782 - INFO - Учет CONTINUATION: ДА
+2025-11-25 18:59:37,782 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 18:59:41,257 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 18:59:41,258 - INFO - Второй проход - сбор данных...
+2025-11-25 18:59:43,205 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-005 - Rev.01.pcf
+2025-11-25 18:59:43,207 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-006 - Rev.01.pcf
+2025-11-25 18:59:43,210 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-007 - Rev.01.pcf
+2025-11-25 18:59:43,215 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-008 - Rev.01.pcf
+2025-11-25 18:59:43,227 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-011 - Rev.01.pcf
+2025-11-25 18:59:43,231 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-012 - Rev.01.pcf
+2025-11-25 18:59:43,233 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-013 - Rev.01.pcf
+2025-11-25 18:59:43,234 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-014 - Rev.01.pcf
+2025-11-25 18:59:43,236 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-015 - Rev.01.pcf
+2025-11-25 18:59:43,248 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-017 - Rev.01.pcf
+2025-11-25 18:59:43,250 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-018 - Rev.01.pcf
+2025-11-25 18:59:47,946 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\895-SCA-90109-002 - Rev.01.pcf
+2025-11-25 18:59:50,713 - INFO - Обработка завершена успешно!
+2025-11-25 18:59:50,713 - INFO - Обработано файлов: 1473
+2025-11-25 18:59:50,714 - INFO - Ошибок: 0
+2025-11-25 18:59:50,714 - INFO - Найдено инструментов: 674
+2025-11-25 18:59:50,715 - INFO - Записей в PipeLengthFromPCF: 2533
+2025-11-25 19:01:29,668 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 19:01:29,668 - INFO - Учет CONTINUATION: НЕТ
+2025-11-25 19:01:29,669 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 19:01:32,924 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 19:01:32,925 - INFO - Второй проход - сбор данных...
+2025-11-25 19:01:35,442 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-005 - Rev.01.pcf
+2025-11-25 19:01:35,444 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-006 - Rev.01.pcf
+2025-11-25 19:01:35,444 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-007 - Rev.01.pcf
+2025-11-25 19:01:35,448 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-008 - Rev.01.pcf
+2025-11-25 19:01:35,454 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-011 - Rev.01.pcf
+2025-11-25 19:01:35,455 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-012 - Rev.01.pcf
+2025-11-25 19:01:35,456 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-013 - Rev.01.pcf
+2025-11-25 19:01:35,458 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-014 - Rev.01.pcf
+2025-11-25 19:01:35,459 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-015 - Rev.01.pcf
+2025-11-25 19:01:35,463 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-017 - Rev.01.pcf
+2025-11-25 19:01:35,464 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-018 - Rev.01.pcf
+2025-11-25 19:01:38,553 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\895-SCA-90109-002 - Rev.01.pcf
+2025-11-25 19:01:40,735 - INFO - Обработка завершена успешно!
+2025-11-25 19:01:40,736 - INFO - Обработано файлов: 1473
+2025-11-25 19:01:40,736 - INFO - Ошибок: 0
+2025-11-25 19:01:40,736 - INFO - Найдено инструментов: 674
+2025-11-25 19:01:40,736 - INFO - Записей в PipeLengthFromPCF: 2429
+2025-11-25 19:25:59,424 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 19:25:59,425 - INFO - Учет CONTINUATION: НЕТ
+2025-11-25 19:25:59,425 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 19:26:02,538 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 19:26:02,538 - INFO - Второй проход - сбор данных...
+2025-11-25 19:26:04,375 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-005 - Rev.01.pcf
+2025-11-25 19:26:04,376 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-006 - Rev.01.pcf
+2025-11-25 19:26:04,378 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-007 - Rev.01.pcf
+2025-11-25 19:26:04,379 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-008 - Rev.01.pcf
+2025-11-25 19:26:04,385 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-011 - Rev.01.pcf
+2025-11-25 19:26:04,386 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-012 - Rev.01.pcf
+2025-11-25 19:26:04,388 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-013 - Rev.01.pcf
+2025-11-25 19:26:04,389 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-014 - Rev.01.pcf
+2025-11-25 19:26:04,393 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-015 - Rev.01.pcf
+2025-11-25 19:26:04,397 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-017 - Rev.01.pcf
+2025-11-25 19:26:04,398 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-018 - Rev.01.pcf
+2025-11-25 19:26:08,293 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\895-SCA-90109-002 - Rev.01.pcf
+2025-11-25 19:26:10,181 - INFO - Обработка завершена успешно!
+2025-11-25 19:26:10,182 - INFO - Обработано файлов: 1473
+2025-11-25 19:26:10,182 - INFO - Ошибок: 0
+2025-11-25 19:26:10,182 - INFO - Найдено инструментов: 674
+2025-11-25 19:26:10,182 - INFO - Записей в PipeLengthFromPCF: 2429
+2025-11-25 19:33:59,826 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-25 19:33:59,827 - INFO - Учет CONTINUATION: НЕТ
+2025-11-25 19:33:59,827 - INFO - Первый проход - анализ структуры файлов...
+2025-11-25 19:34:04,843 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-25 19:34:04,843 - INFO - Второй проход - сбор данных...
+2025-11-25 19:34:07,928 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-005 - Rev.01.pcf
+2025-11-25 19:34:07,930 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-006 - Rev.01.pcf
+2025-11-25 19:34:07,931 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-007 - Rev.01.pcf
+2025-11-25 19:34:07,933 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-008 - Rev.01.pcf
+2025-11-25 19:34:07,942 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-011 - Rev.01.pcf
+2025-11-25 19:34:07,944 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-012 - Rev.01.pcf
+2025-11-25 19:34:07,946 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-013 - Rev.01.pcf
+2025-11-25 19:34:07,947 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-014 - Rev.01.pcf
+2025-11-25 19:34:07,949 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-015 - Rev.01.pcf
+2025-11-25 19:34:07,955 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-017 - Rev.01.pcf
+2025-11-25 19:34:07,957 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\889-MEA-40752-018 - Rev.01.pcf
+2025-11-25 19:34:12,661 - WARNING - Не найдены UNIT или LINEID в файле: C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF\895-SCA-90109-002 - Rev.01.pcf
+2025-11-25 19:34:14,880 - INFO - Обработка завершена успешно!
+2025-11-25 19:34:14,880 - INFO - Обработано файлов: 1473
+2025-11-25 19:34:14,880 - INFO - Ошибок: 0
+2025-11-25 19:34:14,880 - INFO - Найдено инструментов: 674
+2025-11-25 19:34:14,880 - INFO - Записей в PipeLengthFromPCF: 2429
+2025-11-26 15:09:10,286 - INFO - Найдено 1473 PCF файлов для обработки
+2025-11-26 15:09:10,287 - INFO - Учет CONTINUATION: НЕТ
+2025-11-26 15:09:10,289 - INFO - Первый проход - анализ структуры файлов...
+2025-11-26 15:09:13,011 - INFO - Найдено 32 уникальных параметров во всех файлах
+2025-11-26 15:09:13,011 - INFO - Второй проход - сбор данных...
+2025-11-26 15:09:19,357 - INFO - Обработка завершена успешно!
+2025-11-26 15:09:19,358 - INFO - Обработано файлов: 1473
+2025-11-26 15:09:19,358 - INFO - Ошибок: 0
+2025-11-26 15:09:19,359 - INFO - Найдено инструментов: 674
+2025-11-26 15:09:19,360 - INFO - Записей в PipeLengthFromPCF: 2430
+2025-11-26 15:25:44,539 - INFO - Найдено 35 PCF файлов для обработки
+2025-11-26 15:25:44,539 - INFO - Учет CONTINUATION: НЕТ
+2025-11-26 15:25:44,540 - INFO - Первый проход - анализ структуры файлов...
+2025-11-26 15:25:44,799 - INFO - Найдено 6 уникальных параметров во всех файлах
+2025-11-26 15:25:44,800 - INFO - Второй проход - сбор данных...
+2025-11-26 15:25:45,798 - INFO - Обработка завершена успешно!
+2025-11-26 15:25:45,799 - INFO - Обработано файлов: 35
+2025-11-26 15:25:45,799 - INFO - Ошибок: 0
+2025-11-26 15:25:45,799 - INFO - Найдено инструментов: 0
+2025-11-26 15:25:45,800 - INFO - Записей в PipeLengthFromPCF: 216
+2025-11-26 15:30:22,407 - INFO - Найдено 29 PCF файлов для обработки
+2025-11-26 15:30:22,408 - INFO - Учет CONTINUATION: НЕТ
+2025-11-26 15:30:22,408 - INFO - Первый проход - анализ структуры файлов...
+2025-11-26 15:30:22,505 - INFO - Найдено 6 уникальных параметров во всех файлах
+2025-11-26 15:30:22,506 - INFO - Второй проход - сбор данных...
+2025-11-26 15:30:23,211 - INFO - Обработка завершена успешно!
+2025-11-26 15:30:23,211 - INFO - Обработано файлов: 29
+2025-11-26 15:30:23,211 - INFO - Ошибок: 0
+2025-11-26 15:30:23,211 - INFO - Найдено инструментов: 0
+2025-11-26 15:30:23,212 - INFO - Записей в PipeLengthFromPCF: 159
+2025-11-26 16:34:21,777 - INFO - Найдено 29 PCF файлов для обработки
+2025-11-26 16:34:21,778 - INFO - Учет CONTINUATION: НЕТ
+2025-11-26 16:34:21,778 - INFO - Первый проход - анализ структуры файлов...
+2025-11-26 16:34:21,885 - INFO - Найдено 6 уникальных параметров во всех файлах
+2025-11-26 16:34:21,885 - INFO - Второй проход - сбор данных...
+2025-11-26 16:34:22,591 - INFO - Обработка завершена успешно!
+2025-11-26 16:34:22,591 - INFO - Обработано файлов: 29
+2025-11-26 16:34:22,592 - INFO - Ошибок: 0
+2025-11-26 16:34:22,592 - INFO - Найдено инструментов: 0
+2025-11-26 16:34:22,592 - INFO - Записей в PipeLengthFromPCF: 159
+2025-11-26 17:32:31,769 - INFO - Found 29 PCF files to process
+2025-11-26 17:32:31,770 - INFO - Include CONTINUATION: NO
+2025-11-26 17:32:31,770 - INFO - Validation pass - checking for errors...
+2025-11-26 17:32:31,866 - INFO - First pass - analyzing file structure...
+2025-11-26 17:32:31,921 - INFO - Found 6 unique parameters across all files
+2025-11-26 17:32:31,922 - INFO - Second pass - collecting data...
+2025-11-26 17:32:32,361 - INFO - Processing completed successfully!
+2025-11-26 17:32:32,361 - INFO - Processed files: 29
+2025-11-26 17:32:32,362 - INFO - Errors: 0
+2025-11-26 17:32:32,362 - INFO - Instruments found: 0
+2025-11-26 17:32:32,362 - INFO - Pipe length records: 159
+2025-11-26 17:32:32,363 - INFO - Validation errors: 51
+2025-11-26 17:40:16,458 - INFO - Found 29 PCF files to process
+2025-11-26 17:40:16,458 - INFO - Include CONTINUATION: NO
+2025-11-26 17:40:16,459 - INFO - Validation pass - checking for errors...
+2025-11-26 17:40:16,573 - INFO - First pass - analyzing file structure...
+2025-11-26 17:40:16,627 - INFO - Found 6 unique parameters across all files
+2025-11-26 17:40:16,628 - INFO - Second pass - collecting data...
+2025-11-26 17:40:17,054 - ERROR - Error saving files: [Errno 13] Permission denied: 'C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/Preem/PCF-Etapp2/PCF_Errors.xlsx'
+2025-11-26 17:45:40,752 - INFO - Found 29 PCF files to process
+2025-11-26 17:45:40,753 - INFO - Include CONTINUATION: NO
+2025-11-26 17:45:40,753 - INFO - Validation pass - checking for errors...
+2025-11-26 17:45:40,851 - INFO - First pass - analyzing file structure...
+2025-11-26 17:45:40,981 - INFO - Found 6 unique parameters across all files
+2025-11-26 17:45:40,982 - INFO - Second pass - collecting data...
+2025-11-26 17:45:41,512 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2025-11-26 17:45:41,525 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-11-26 17:45:41,554 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2025-11-26 17:45:41,555 - WARNING - File access error on PCF_Errors.xlsx: [Errno 13] Permission denied: 'C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/Preem/PCF-Etapp2/PCF_Errors.xlsx'
+2025-11-26 17:45:55,649 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-11-26 17:45:55,649 - INFO - Processing completed successfully!
+2025-11-26 17:45:55,650 - INFO - Processed files: 29
+2025-11-26 17:45:55,651 - INFO - Errors: 0
+2025-11-26 17:45:55,651 - INFO - Instruments found: 0
+2025-11-26 17:45:55,651 - INFO - Pipe length records: 159
+2025-11-26 17:45:55,652 - INFO - Validation errors: 87
+2025-11-26 17:48:54,373 - INFO - Found 5690 PCF files to process
+2025-11-26 17:48:54,374 - INFO - Include CONTINUATION: NO
+2025-11-26 17:48:54,375 - INFO - Validation pass - checking for errors...
+2025-11-26 17:50:11,457 - INFO - First pass - analyzing file structure...
+2025-11-26 17:50:19,870 - INFO - Found 42 unique parameters across all files
+2025-11-26 17:50:19,871 - INFO - Second pass - collecting data...
+2025-11-26 17:50:44,638 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2025-11-26 17:50:44,961 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-11-26 17:50:46,405 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2025-11-26 17:50:46,503 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-11-26 17:50:46,505 - INFO - Processing completed successfully!
+2025-11-26 17:50:46,505 - INFO - Processed files: 5690
+2025-11-26 17:50:46,506 - INFO - Errors: 0
+2025-11-26 17:50:46,506 - INFO - Instruments found: 2671
+2025-11-26 17:50:46,507 - INFO - Pipe length records: 12246
+2025-11-26 17:50:46,507 - INFO - Validation errors: 2009
+2025-11-27 12:45:37,693 - INFO - Found 1473 PCF files to process
+2025-11-27 12:45:37,703 - INFO - Include CONTINUATION: NO
+2025-11-27 12:45:37,704 - INFO - Validation pass - checking for errors...
+2025-11-27 12:45:40,365 - INFO - First pass - analyzing file structure...
+2025-11-27 12:45:41,576 - INFO - Found 32 unique parameters across all files
+2025-11-27 12:45:41,577 - INFO - Second pass - collecting data...
+2025-11-27 12:45:45,538 - WARNING - File access error on PCF_Pipeline_Attributes.xlsx: [Errno 13] Permission denied: 'C:/Users/E1173031/OneDrive - nVent Thermal LLC/Desktop/TR RIYAS/00_Change management/PCF_PDF/2025.11.17/PCF_Pipeline_Attributes.xlsx'
+2025-11-27 12:46:10,573 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2025-11-27 12:46:10,652 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-11-27 12:46:10,903 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2025-11-27 12:46:10,921 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-11-27 12:46:10,923 - INFO - Processing completed successfully!
+2025-11-27 12:46:10,923 - INFO - Processed files: 1473
+2025-11-27 12:46:10,923 - INFO - Errors: 0
+2025-11-27 12:46:10,924 - INFO - Instruments found: 674
+2025-11-27 12:46:10,924 - INFO - Pipe length records: 2430
+2025-11-27 12:46:10,925 - INFO - Validation errors: 12
+2025-11-27 12:47:52,068 - INFO - Found 5690 PCF files to process
+2025-11-27 12:47:52,069 - INFO - Include CONTINUATION: NO
+2025-11-27 12:47:52,070 - INFO - Validation pass - checking for errors...
+2025-11-27 12:48:02,019 - INFO - First pass - analyzing file structure...
+2025-11-27 12:48:08,371 - INFO - Found 42 unique parameters across all files
+2025-11-27 12:48:08,372 - INFO - Second pass - collecting data...
+2025-11-27 12:48:30,074 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2025-11-27 12:48:30,355 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-11-27 12:48:31,605 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2025-11-27 12:48:31,696 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-11-27 12:48:31,698 - INFO - Processing completed successfully!
+2025-11-27 12:48:31,698 - INFO - Processed files: 5690
+2025-11-27 12:48:31,699 - INFO - Errors: 0
+2025-11-27 12:48:31,699 - INFO - Instruments found: 2671
+2025-11-27 12:48:31,700 - INFO - Pipe length records: 12246
+2025-11-27 12:48:31,700 - INFO - Validation errors: 2009
+2025-11-27 12:56:47,365 - INFO - Found 1473 PCF files to process
+2025-11-27 12:56:47,366 - INFO - Include CONTINUATION: NO
+2025-11-27 12:56:47,367 - INFO - Validation pass - checking for errors...
+2025-11-27 13:03:16,612 - INFO - First pass - analyzing file structure...
+2025-11-27 13:09:42,062 - INFO - Found 32 unique parameters across all files
+2025-11-27 13:09:42,063 - INFO - Second pass - collecting data...
+2025-11-27 13:19:57,370 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2025-11-27 13:19:57,446 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-11-27 13:19:57,667 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2025-11-27 13:19:57,686 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-11-27 13:19:57,687 - INFO - Processing completed successfully!
+2025-11-27 13:19:57,687 - INFO - Processed files: 1473
+2025-11-27 13:19:57,687 - INFO - Errors: 0
+2025-11-27 13:19:57,687 - INFO - Instruments found: 674
+2025-11-27 13:19:57,688 - INFO - Pipe length records: 2430
+2025-11-27 13:19:57,688 - INFO - Validation errors: 12
+2025-11-30 15:51:35,056 - INFO - Found 1473 PCF files to process
+2025-11-30 15:51:35,056 - INFO - Include CONTINUATION: NO
+2025-11-30 15:51:35,057 - INFO - Validation pass - checking for errors...
+2025-11-30 15:51:44,386 - INFO - First pass - analyzing file structure...
+2025-11-30 15:51:45,186 - INFO - Found 32 unique parameters across all files
+2025-11-30 15:51:45,186 - INFO - Second pass - collecting data...
+2025-11-30 15:51:48,871 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2025-11-30 15:51:48,932 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-11-30 15:51:49,133 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2025-11-30 15:51:49,145 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-11-30 15:51:49,145 - INFO - Processing completed successfully!
+2025-11-30 15:51:49,145 - INFO - Processed files: 1473
+2025-11-30 15:51:49,146 - INFO - Errors: 0
+2025-11-30 15:51:49,146 - INFO - Instruments found: 674
+2025-11-30 15:51:49,146 - INFO - Pipe length records: 2430
+2025-11-30 15:51:49,146 - INFO - Validation errors: 12
+2025-12-10 17:39:53,396 - INFO - Found 1473 PCF files to process
+2025-12-10 17:39:53,405 - INFO - Include CONTINUATION: NO
+2025-12-10 17:39:53,406 - INFO - Generate reports: {'pipeline': False, 'instruments': True, 'lengths': False, 'errors': True}
+2025-12-10 17:39:53,406 - INFO - Validation pass - checking for errors...
+2025-12-10 17:39:56,176 - INFO - First pass - analyzing file structure...
+2025-12-10 17:39:58,426 - INFO - Found 32 unique parameters across all files
+2025-12-10 17:39:58,427 - INFO - Second pass - collecting data...
+2025-12-10 17:40:03,904 - INFO - Successfully saved: PCF_Instruments.xlsx
+2025-12-10 17:40:03,915 - INFO - Successfully saved: PCF_Errors.xlsx
+2025-12-10 17:40:03,916 - INFO - Processing completed successfully!
+2025-12-10 17:40:03,916 - INFO - Processed files: 1473
+2025-12-10 17:40:03,917 - INFO - Errors: 0
+2026-01-13 10:36:17,767 - INFO - Found 1473 PCF files to process
+2026-01-13 10:36:17,770 - INFO - Include CONTINUATION: NO
+2026-01-13 10:36:17,770 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-01-13 10:36:17,770 - INFO - Validation pass - checking for errors...
+2026-01-13 10:36:20,370 - INFO - First pass - analyzing file structure...
+2026-01-13 10:36:21,582 - INFO - Found 32 unique parameters across all files
+2026-01-13 10:36:21,583 - INFO - Second pass - collecting data...
+2026-01-13 10:36:26,785 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-01-13 10:36:26,877 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-01-13 10:36:27,130 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-01-13 10:36:27,142 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-01-13 10:36:27,143 - INFO - Processing completed successfully!
+2026-01-13 10:36:27,143 - INFO - Processed files: 1473
+2026-01-13 10:36:27,144 - INFO - Errors: 0
+2026-02-09 15:08:26,034 - INFO - Found 1624 PCF files to process
+2026-02-09 15:08:26,042 - INFO - Include CONTINUATION: NO
+2026-02-09 15:08:26,044 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-09 15:08:26,044 - INFO - Validation pass - checking for errors...
+2026-02-09 15:08:28,483 - INFO - First pass - analyzing file structure...
+2026-02-09 15:08:29,984 - INFO - Found 32 unique parameters across all files
+2026-02-09 15:08:29,985 - INFO - Second pass - collecting data...
+2026-02-09 15:08:35,663 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-09 15:08:35,753 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-09 15:08:36,029 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-09 15:08:36,044 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-09 15:08:36,044 - INFO - Processing completed successfully!
+2026-02-09 15:08:36,045 - INFO - Processed files: 1624
+2026-02-09 15:08:36,045 - INFO - Errors: 0
+2026-02-15 00:00:08,587 - INFO - Found 3149 PCF files to process
+2026-02-15 00:00:08,599 - INFO - Include CONTINUATION: NO
+2026-02-15 00:00:08,599 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 00:00:08,599 - INFO - Processing files (single-pass optimized)...
+2026-02-15 00:00:33,761 - INFO - Found 32 unique parameters across all files
+2026-02-15 00:00:33,761 - INFO - Assembling reports...
+2026-02-15 00:00:34,629 - INFO - Saving Excel reports...
+2026-02-15 00:00:35,665 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 00:00:35,781 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 00:00:36,148 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 00:00:36,204 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 00:00:36,204 - INFO - Processing completed successfully!
+2026-02-15 00:00:36,204 - INFO - Processed files: 3120
+2026-02-15 00:00:36,204 - INFO - Errors: 29
+2026-02-15 14:21:05,388 - INFO - Found 3149 PCF files to process
+2026-02-15 14:21:05,399 - INFO - Include CONTINUATION: NO
+2026-02-15 14:21:05,399 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 14:21:05,399 - INFO - Validation pass - checking for errors...
+2026-02-15 14:21:29,572 - INFO - First pass - analyzing file structure...
+2026-02-15 14:21:31,270 - INFO - Found 32 unique parameters across all files
+2026-02-15 14:21:31,270 - INFO - Second pass - collecting data...
+2026-02-15 14:21:39,178 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 14:21:39,312 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 14:21:39,697 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 14:21:39,756 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 14:21:39,757 - INFO - Processing completed successfully!
+2026-02-15 14:21:39,757 - INFO - Processed files: 3149
+2026-02-15 14:21:39,757 - INFO - Errors: 0
+2026-02-15 14:22:44,094 - INFO - Found 3149 PCF files to process
+2026-02-15 14:22:44,094 - INFO - Include CONTINUATION: NO
+2026-02-15 14:22:44,094 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 14:22:44,095 - INFO - Validation pass - checking for errors...
+2026-02-15 14:22:46,080 - INFO - First pass - analyzing file structure...
+2026-02-15 14:22:47,849 - INFO - Found 32 unique parameters across all files
+2026-02-15 14:22:47,849 - INFO - Second pass - collecting data...
+2026-02-15 14:22:55,945 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 14:22:56,064 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 14:22:56,491 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 14:22:56,548 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 14:22:56,549 - INFO - Processing completed successfully!
+2026-02-15 14:22:56,549 - INFO - Processed files: 3149
+2026-02-15 14:22:56,549 - INFO - Errors: 0
+2026-02-15 14:30:04,189 - INFO - Found 3149 PCF files to process
+2026-02-15 14:30:04,189 - INFO - Include CONTINUATION: NO
+2026-02-15 14:30:04,189 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 14:30:04,189 - INFO - Validation pass - checking for errors...
+2026-02-15 14:30:06,023 - INFO - First pass - analyzing file structure...
+2026-02-15 14:30:07,676 - INFO - Found 32 unique parameters across all files
+2026-02-15 14:30:07,676 - INFO - Second pass - collecting data...
+2026-02-15 14:30:23,956 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 14:30:24,080 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 14:30:24,456 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 14:30:24,512 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 14:30:24,513 - INFO - Processing completed successfully!
+2026-02-15 14:30:24,513 - INFO - Processed files: 3149
+2026-02-15 14:30:24,513 - INFO - Errors: 0
+2026-02-15 14:36:42,095 - INFO - Found 3149 PCF files to process
+2026-02-15 14:36:42,096 - INFO - Include CONTINUATION: NO
+2026-02-15 14:36:42,096 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 14:36:42,096 - INFO - Validation pass - checking for errors...
+2026-02-15 14:36:55,342 - INFO - First pass - analyzing file structure...
+2026-02-15 14:36:57,126 - INFO - Found 32 unique parameters across all files
+2026-02-15 14:36:57,126 - INFO - Second pass - collecting data...
+2026-02-15 14:37:04,894 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 14:37:05,014 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 14:37:05,405 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 14:37:05,462 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 14:37:05,462 - INFO - Processing completed successfully!
+2026-02-15 14:37:05,462 - INFO - Processed files: 3149
+2026-02-15 14:37:05,462 - INFO - Errors: 0
+2026-02-15 14:46:56,422 - INFO - Found 3149 PCF files to process
+2026-02-15 14:46:56,424 - INFO - Include CONTINUATION: NO
+2026-02-15 14:46:56,424 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 14:46:56,424 - INFO - Validation pass - checking for errors...
+2026-02-15 14:46:58,154 - INFO - First pass - analyzing file structure...
+2026-02-15 14:46:59,729 - INFO - Found 32 unique parameters across all files
+2026-02-15 14:46:59,729 - INFO - Second pass - collecting data...
+2026-02-15 14:47:06,861 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 14:47:06,974 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 14:47:07,342 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 14:47:07,409 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 14:47:07,409 - INFO - Processing completed successfully!
+2026-02-15 14:47:07,410 - INFO - Processed files: 3149
+2026-02-15 14:47:07,410 - INFO - Errors: 0
+2026-02-15 14:58:08,361 - INFO - Found 3149 PCF files to process
+2026-02-15 14:58:08,362 - INFO - Include CONTINUATION: NO
+2026-02-15 14:58:08,362 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 14:58:08,362 - INFO - Validation pass - checking for errors...
+2026-02-15 14:58:10,166 - INFO - First pass - analyzing file structure...
+2026-02-15 14:58:11,765 - INFO - Found 32 unique parameters across all files
+2026-02-15 14:58:11,766 - INFO - Second pass - collecting data...
+2026-02-15 14:58:18,890 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 14:58:19,008 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 14:58:19,383 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 14:58:19,500 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 14:58:19,501 - INFO - Processing completed successfully!
+2026-02-15 14:58:19,501 - INFO - Processed files: 3149
+2026-02-15 14:58:19,502 - INFO - Errors: 0
+2026-02-15 15:18:21,892 - INFO - Found 3149 PCF files to process
+2026-02-15 15:18:21,895 - INFO - Include CONTINUATION: NO
+2026-02-15 15:18:21,895 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 15:18:21,895 - INFO - Validation pass - checking for errors...
+2026-02-15 15:18:23,681 - INFO - First pass - analyzing file structure...
+2026-02-15 15:18:25,265 - INFO - Found 32 unique parameters across all files
+2026-02-15 15:18:25,265 - INFO - Second pass - collecting data...
+2026-02-15 15:18:32,613 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 15:18:32,756 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 15:18:33,169 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 15:18:33,171 - WARNING - File access error on PCF_Errors.xlsx: [Errno 13] Permission denied: 'D:/Pro/PCF_PDF/PCF_Errors.xlsx'
+2026-02-15 15:18:44,882 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 15:18:44,883 - INFO - Processing completed successfully!
+2026-02-15 15:18:44,883 - INFO - Processed files: 3149
+2026-02-15 15:18:44,883 - INFO - Errors: 0
+2026-02-15 22:00:36,426 - INFO - Found 3149 PCF files to process
+2026-02-15 22:00:36,441 - INFO - Include CONTINUATION: NO
+2026-02-15 22:00:36,441 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 22:00:36,441 - INFO - Validation pass - checking for errors...
+2026-02-15 22:00:57,990 - INFO - First pass - analyzing file structure...
+2026-02-15 22:00:59,618 - INFO - Found 32 unique parameters across all files
+2026-02-15 22:00:59,618 - INFO - Second pass - collecting data...
+2026-02-15 22:01:06,914 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 22:01:07,086 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 22:01:07,093 - WARNING - File access error on PCF_PipeLengthFromPCF.xlsx: [Errno 13] Permission denied: 'D:/Pro/PCF_PDF/PCF_PipeLengthFromPCF.xlsx'
+2026-02-15 22:01:17,403 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 22:01:17,673 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 22:01:17,673 - INFO - Processing completed successfully!
+2026-02-15 22:01:17,673 - INFO - Processed files: 3149
+2026-02-15 22:01:17,674 - INFO - Errors: 0
+2026-02-15 22:35:01,488 - INFO - Found 3150 PCF files to process
+2026-02-15 22:35:01,489 - INFO - Include CONTINUATION: NO
+2026-02-15 22:35:01,489 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 22:35:01,489 - INFO - Validation pass - checking for errors...
+2026-02-15 22:35:03,293 - INFO - First pass - analyzing file structure...
+2026-02-15 22:35:04,965 - INFO - Found 32 unique parameters across all files
+2026-02-15 22:35:04,965 - INFO - Second pass - collecting data...
+2026-02-15 22:35:12,230 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 22:35:12,233 - WARNING - File access error on PCF_Instruments.xlsx: [Errno 13] Permission denied: 'D:/Pro/PCF_PDF/PCF_Instruments.xlsx'
+2026-02-15 22:35:19,655 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 22:35:20,100 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 22:35:20,305 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 22:35:20,306 - INFO - Processing completed successfully!
+2026-02-15 22:35:20,306 - INFO - Processed files: 3150
+2026-02-15 22:35:20,306 - INFO - Errors: 0
+2026-02-15 22:45:55,486 - INFO - Found 3150 PCF files to process
+2026-02-15 22:45:55,487 - INFO - Include CONTINUATION: NO
+2026-02-15 22:45:55,488 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-02-15 22:45:55,488 - INFO - Validation pass - checking for errors...
+2026-02-15 22:45:57,332 - INFO - First pass - analyzing file structure...
+2026-02-15 22:45:58,957 - INFO - Found 32 unique parameters across all files
+2026-02-15 22:45:58,957 - INFO - Second pass - collecting data...
+2026-02-15 22:46:06,292 - INFO - Successfully saved: PCF_Pipeline_Attributes.xlsx
+2026-02-15 22:46:06,401 - INFO - Successfully saved: PCF_Instruments.xlsx
+2026-02-15 22:46:06,848 - INFO - Successfully saved: PCF_PipeLengthFromPCF.xlsx
+2026-02-15 22:46:07,052 - INFO - Successfully saved: PCF_Errors.xlsx
+2026-02-15 22:46:07,052 - INFO - Processing completed successfully!
+2026-02-15 22:46:07,052 - INFO - Processed files: 3150
+2026-02-15 22:46:07,053 - INFO - Errors: 0
