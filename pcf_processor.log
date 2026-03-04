@@ -50,3 +50,42 @@
 2026-03-04 22:36:33,520 - INFO - Saved: PCF_PipeLengthFromPCF.xlsx
 2026-03-04 22:36:33,685 - INFO - Saved: PCF_Errors.xlsx
 2026-03-04 22:36:33,685 - INFO - Processing completed. Processed=3176, Errors=0
+2026-03-04 23:28:22,089 - INFO - Found 3176 PCF files to process
+2026-03-04 23:28:22,089 - INFO - Include CONTINUATION: NO
+2026-03-04 23:28:22,090 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-03-04 23:28:22,090 - INFO - Validation pass - checking for errors...
+2026-03-04 23:28:23,888 - INFO - First pass - analyzing file structure...
+2026-03-04 23:28:25,578 - INFO - Found 32 unique parameters across all files
+2026-03-04 23:28:25,578 - INFO - Second pass - collecting data...
+2026-03-04 23:28:35,564 - INFO - Enriched 5198 length records with Status and Index. Processed 1683 LINEIDs with 3147 total unique combinations.
+2026-03-04 23:28:36,681 - INFO - Saved: PCF_Pipeline_Attributes.xlsx
+2026-03-04 23:28:36,792 - INFO - Saved: PCF_Instruments.xlsx
+2026-03-04 23:28:37,397 - INFO - Saved: PCF_PipeLengthFromPCF.xlsx
+2026-03-04 23:28:37,560 - INFO - Saved: PCF_Errors.xlsx
+2026-03-04 23:28:37,561 - INFO - Processing completed. Processed=3176, Errors=0
+2026-03-04 23:52:59,761 - INFO - Found 3176 PCF files to process
+2026-03-04 23:52:59,761 - INFO - Include CONTINUATION: NO
+2026-03-04 23:52:59,761 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-03-04 23:52:59,761 - INFO - Validation pass - checking for errors...
+2026-03-04 23:53:01,487 - INFO - First pass - analyzing file structure...
+2026-03-04 23:53:03,116 - INFO - Found 32 unique parameters across all files
+2026-03-04 23:53:03,116 - INFO - Second pass - collecting data...
+2026-03-04 23:53:12,629 - INFO - Enriched 5198 length records with Status and Index. Processed 1683 LINEIDs with 3147 total unique combinations.
+2026-03-04 23:53:13,710 - INFO - Saved: PCF_Pipeline_Attributes.xlsx
+2026-03-04 23:53:13,822 - INFO - Saved: PCF_Instruments.xlsx
+2026-03-04 23:53:14,413 - INFO - Saved: PCF_PipeLengthFromPCF.xlsx
+2026-03-04 23:53:14,574 - INFO - Saved: PCF_Errors.xlsx
+2026-03-04 23:53:14,574 - INFO - Processing completed. Processed=3176, Errors=0
+2026-03-05 00:03:15,761 - INFO - Found 3176 PCF files to process
+2026-03-05 00:03:15,761 - INFO - Include CONTINUATION: NO
+2026-03-05 00:03:15,761 - INFO - Generate reports: {'pipeline': True, 'instruments': True, 'lengths': True, 'errors': True}
+2026-03-05 00:03:15,761 - INFO - Validation pass - checking for errors...
+2026-03-05 00:03:17,431 - INFO - First pass - analyzing file structure...
+2026-03-05 00:03:19,067 - INFO - Found 32 unique parameters across all files
+2026-03-05 00:03:19,067 - INFO - Second pass - collecting data...
+2026-03-05 00:03:28,633 - INFO - Enriched 5198 length records with Status and Index. Processed 1683 LINEIDs with 3147 total unique combinations.
+2026-03-05 00:03:29,719 - INFO - Saved: PCF_Pipeline_Attributes.xlsx
+2026-03-05 00:03:29,830 - INFO - Saved: PCF_Instruments.xlsx
+2026-03-05 00:03:30,425 - INFO - Saved: PCF_PipeLengthFromPCF.xlsx
+2026-03-05 00:03:30,586 - INFO - Saved: PCF_Errors.xlsx
+2026-03-05 00:03:30,587 - INFO - Processing completed. Processed=3176, Errors=0
